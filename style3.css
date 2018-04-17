@@ -1,0 +1,165 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    min-height: 250px;
+    background-color:#03222A;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.header-top{
+    min-height: 50px;
+    width: 100%;
+    overflow: hidden;
+    
+    
+}
+.top-left{
+    min-height: 50px;
+    width: 30%;
+    border: 1px solid yellow;
+    float: left;
+    color:aliceblue;
+    margin-left: 30px;
+    
+}
+.top-right{
+    min-height: 50px;
+    width: 40%;
+    border: 1px solid yellow;
+    float: left;
+    margin-left: 15%;
+    
+    
+}
+.header-bottom{
+    min-height: 200px;
+    width: 100%;
+    
+    
+    
+}
+
+.bottom-left{
+    min-height: 200px;
+    width: 30%;
+    border: 1px solid yellow;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    float: left;
+    
+    
+}
+.bottom-right{
+    
+    
+    min-height: 200px;
+    width: 45%;
+    
+    margin:10px 20px 10px 90px;
+    float: left;
+    border: 1px solid red;
+}
+.bottom-side   {
+    min-height: 400x;
+    background-color: aliceblue;
+    width: 100%;
+    
+    
+    
+}
+.service{
+    
+    min-height: 150px;
+    width: 84%;
+    
+    margin: 20px auto;
+}
+.service1{
+    min-height: 150px;
+    width: 22%;
+    background-color:darkgrey;
+    margin:0px 64px;
+    float: left;
+    
+    
+    
+}
+.content1{
+    
+    min-height:  30px;
+    background-color: aliceblue;
+    width: 70%;
+    margin: 5px 20px;
+}
+.content2{
+    min-height: 90px;
+    border: 1px solid yellow;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%
+    
+    
+    
+}
+.content3{
+    min-height: 20px;
+    margin: 3px 40px;
+    width: 40%;
+    text-align: center;
+    
+}
+.slider{
+    
+    min-height: 50px;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.slider-dis{
+    min-height: 50px;
+    border: 1px solid black;
+    width: 65%;
+    float: left;
+    margin-left: 12%;
+    
+    
+    
+}
+.slider-button{
+    min-height: 50px;
+    float: left;
+    margin: 0px 30px;
+    
+    
+}
+.footer{
+    min-height: 60px;
+    width: 100%;
+    overflow: hidden;
+    background-color: #194D4C;
+    overflow: hidden;
+    
+}
+.footer-left{
+    min-height: 50px;
+    width: 40%;
+    background-color:dimgray;
+    float: left;
+    margin-left: 10%;
+    
+}
+.footer-right{
+    min-height: 50px;
+    width: 20%;
+    background-color:dimgray;
+    float:right;
+    margin-right: 10%;
+    
+}
+    
+}
